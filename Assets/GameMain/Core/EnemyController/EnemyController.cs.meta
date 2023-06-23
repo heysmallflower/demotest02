@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91339a7acd6a2284abc19af6052b8aec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - teamApos: {fileID: 6166952155756520315, guid: 53c347734874ed9419e73fda0c441744, type: 3}
+  - teamBpos: {fileID: 5801093607377835712, guid: 8d4edb5b0cf81c141a5039de37362f1b, type: 3}
+  - teamCpos: {fileID: 1182719145587972103, guid: 0cecd1d4dc68aaa4a8d9d35327897e5c, type: 3}
+  - teamDpos: {fileID: 8485745379915920843, guid: 3e98da17bda8ebd45a3f91b103100782, type: 3}
+  - teamEpos: {fileID: 3359442805949710019, guid: 4f2db2e8d6c4a8342bae71c960eba591, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
